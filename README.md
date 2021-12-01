@@ -7,4 +7,6 @@
 />
 
 This project is powered by [Chat Engine](https://chatengine.io).
+Instructor: Adam La Morre
+
 
